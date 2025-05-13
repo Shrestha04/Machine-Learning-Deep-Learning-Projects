@@ -108,4 +108,4 @@ This repositiory contains various Machine Learning and Deep Learning projects fe
 - Model Evaluation & Metrics
   
 ---
-Made with ❤️ by Shrestha Jaiswal
+### Made with ❤️ by Shrestha!
